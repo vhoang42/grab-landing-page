@@ -1,0 +1,133 @@
+  #navbar {
+    height: 60px; 
+    background-color: white;
+    position: relative;
+}
+#navbar .grab-logo {
+    width:91px;
+    position: absolute;
+    top: 10px;
+  }
+#navbar a{
+  color: black;
+  text-decoration: none;
+}
+#navbar ul li {
+  display:inline;
+  margin:15px;
+}
+#navbar ul {
+  position: absolute;
+  margin: 0;
+  right:15px;
+  font-size:20px;
+  font-weight:500;
+  font-family:"Sanomat Grab Web Regular", sans-serif;
+}
+#navbar .grabpay-logo{
+  position: relative;
+  top: 10px;
+  padding-right: 190px;
+  width: 120px;
+}
+
+#navbar #btn-grab{
+  position: relative;
+  background-color: white;
+  font-size: 18px;
+  color: green;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  border: 1px solid #1ed760;
+}
+#navbar #btn-grab:hover {
+  background-color: #1ed760 ;
+}
+#banner {
+  height: 660px; position: relative;
+}
+ #banner #title{
+    height: 660px;
+    position: absolute;
+    top:200px;
+    color:white;
+    font-family: "Sanomat Grab Web Bold", sans-serif;
+    font-weight:600px;
+    left: 160px;
+}
+#banner #btn-findout{
+  position: absolute;
+  top: 380px;
+  left: 160px;
+  background-color: #1db954;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  padding: 15px 30px 15px 30px;
+  border-radius: 9px;
+  border: 1px solid #1ed760;
+  font-family:position: relative;
+  font-family: "Sanomat Grab Web Bold", sans-serif;
+}
+#white-1{
+  height: 660px; position: relative;
+}
+#white-1 #how-to{
+  font-family:"Sanomat Grab Web Bold", sans-serif;
+  position: absolute;
+  height: 45px;
+  weight: 600px;
+  left: 600px;
+  color: green;
+  top: 40px;
+}
+#white-1 #use-grab{
+  font-family:"Sanomat Grab Web Bold", sans-serif;
+  position: absolute;
+  height: 45px;
+  weight: 18px;
+  left: 600px;
+  color: black;
+  top:100px;
+}
+#color-1{
+  height: 400px; background-color: green; position: relative;
+}
+#color-1 h1{
+  position: absolute;
+  font-weight: 600;
+  font-size: 2.571em;
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin-top:100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family:"Sanomat Grab Web Bold", sans-serif;
+ 
+}
+#color-1 #btn-clickmore{
+  position: absolute;
+  background-color: white;
+  font-size: 18px;
+  font-weight: 500px;
+  color: green;
+  text-transform: uppercase;
+  padding: 15px 30px 15px 30px;
+  border-radius: 0px;
+  border: 1px solid #1ed760;
+  font-family:position: relative;
+  text-align:center;
+  top: 250px;
+  margin-top:10px;
+  margin-left: 600px;
+  margin-right: auto;
+  margin-bottom: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family:"Sanomat Grab Web Regular", sans-serif;
+}
