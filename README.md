@@ -6,9 +6,9 @@ Time spent: **6** hours spent in total
 
 The following **required** functionalities are completed:
 
-* [ ] Top navigation bar with dropdown buttons
-* [ ] Banner with background image, white text, and a green button
-* [ ] Color or text change when mouse hovers over
+* [x] Top navigation bar with dropdown buttons
+* [x] Banner with background image, white text, and a green button
+* [x] Color or text change when mouse hovers over
 * [ ] At least 3 different body sections with different background images or colors
 * [ ] 2 (or 3) card items per row in a body section
 * [ ] Footer with social icons that link to the actual social pages
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Van Hoang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
